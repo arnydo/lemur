@@ -7,7 +7,7 @@ These guides are quick tutorials on how to perform basic tasks in Lemur.
 Create a New Authority
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Before Lemur can issue certificates you must configure the authority you wish use. Lemur itself does
+Before Lemur can issue certificates you must configure the authority you wish to use. Lemur itself does
 not issue certificates, it relies on external CAs and the plugins associated with those CAs to create the certificate
 that Lemur can then manage.
 
